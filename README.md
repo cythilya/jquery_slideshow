@@ -1,4 +1,4 @@
-# slideshow
+# jQuery Slideshow Plugin
 Slideshow plugin for jQuery.
 
 ## Features
