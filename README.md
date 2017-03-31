@@ -5,7 +5,7 @@ Slideshow plugin for jQuery.
 - Lightweight
 - Easy to customize
 
-##Options
+## Options
 - autoPlay: Autoplay if set true. Default is false.
 - interval: Time in milliseconds before next item is shown.
 - activeIndex: Set start item. Default is 0, i.e., the first one.
